@@ -133,4 +133,8 @@ Crime_Date %>%
 The data showed that crime were mostly carried in late at night and in the early hours of the morning. In addition, Brookyln has the highest amount of crime during the period of time under investigation followed by Bronx, Queens, Manhattan and Staten Island.
 # Sources of Bias
 1. The model is biased towards outliers.
+<<<<<<< HEAD
 2. There is a lot of missing information about the perpetrators, causing inadequate analysis on their sex, race, and age group.
+=======
+2. There is a lot of missing information about the perpetrators, causing inadequate analysis on their sex, race, and age group.
+>>>>>>> 0ee039eea80775473e261f4c5ad3357f79466b9c
